@@ -48,6 +48,7 @@ Action()
 		"Name=departDate", "Value={ParamdepartDate}", ENDITEM, 
 		"Name=arrive", "Value={NewParam_arrive}", ENDITEM,
 		"Name=returnDate", "Value={ParamreturnDate}", ENDITEM,
+		"Name=numPassengers", "Value=1", ENDITEM,
 		"Name=seatPref", "Value={set}", ENDITEM, 
 		"Name=seatType", "Value={set1}", ENDITEM, 
 		"Name=.cgifields", "Value=roundtrip", ENDITEM, 

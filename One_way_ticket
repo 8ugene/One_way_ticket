@@ -10,9 +10,6 @@ Action()
 
 	lr_think_time(14);
 
-	web_set_max_html_param_len("10000");
-
-	
 	lr_start_transaction("1_transaction");
 
 	web_url("welcome.pl", 
